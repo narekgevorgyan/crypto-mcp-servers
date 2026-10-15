@@ -201,6 +201,7 @@ These hosted servers answered an MCP `initialize` request with no credentials. T
 ### Analytics & Research
 | Server | What It Is Good For | Maintainer | Transport | Auth | Source |
 |---|---|---|---|---|---|
+| [Blockworks](https://docs.blockworks.com/mcp/overview) | Market data, onchain metrics, token unlocks, fundraising, and Blockworks research | `Official` | `Remote` | `OAuth` | [Docs](https://docs.blockworks.com/mcp/overview) |
 | [CryptoQuant](https://userguide.cryptoquant.com/api/mcp-server-beta/remote-mcp-recommended) | Exchange flows, MVRV, SOPR, miner and derivatives data, and research | `Official` | `Both` | `Mixed` | [GitHub](https://github.com/CryptoQuantOfficial/cryptoquant-mcp) |
 | [Glassnode](https://docs.glassnode.com/integrations-and-tools/glassnode-mcp-server) | 900+ on-chain and market metrics for 1,700+ assets | `Official` | `Remote` | `Mixed` | [Docs](https://docs.glassnode.com/integrations-and-tools/glassnode-mcp-server) |
 | [Messari](https://docs.messari.io/mcp-server/hosted) | Messari research and news search, datasets, and asset time series (Enterprise) | `Official` | `Remote` | `OAuth` | [Docs](https://docs.messari.io/mcp-server/hosted) |
