@@ -84,6 +84,7 @@ These hosted servers answered an MCP `initialize` request with no credentials. T
 | [LI.FI](https://docs.li.fi/mcp-server/overview) | `https://mcp.li.quest/mcp` | Bridge and swap routes across 58 chains |
 | [Morpho](https://docs.morpho.org/developers/agents/mcp/) | `https://mcp.morpho.org/` | Morpho vaults, markets, and positions |
 | [Solana Explorer](https://github.com/solana-foundation/explorer/tree/master/app/mcp) | `https://explorer.solana.com/mcp` | Decode Solana accounts and signatures |
+| [THORChain](https://swap.thorchain.org/developers/mcp) | `https://swap.thorchain.org/mcp` | Native cross-chain swap quotes, pools, and network status |
 | [TronGrid](https://developers.tron.network/docs/mcp) | `https://mcp.trongrid.io/mcp` | TRON accounts, blocks, and TRC-20 data |
 
 ## Server Categories
@@ -197,6 +198,7 @@ These hosted servers answered an MCP `initialize` request with no credentials. T
 | [Pendle](https://github.com/pendle-finance/pendle-ai) | Pendle PT/YT trading, LP, limit orders, and Boros rate derivatives | `Official` | `Both` | `Mixed` | [GitHub](https://github.com/pendle-finance/pendle-ai) |
 | [Relay](https://github.com/relayprotocol/relay-mcp) | Cross-chain bridge and swap quotes, fees, and tx status | `Official` | `Local` | `No` | [GitHub](https://github.com/relayprotocol/relay-mcp) |
 | [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/v2/packages/adapter-mcp) | Jupiter, Raydium, Orca, Kamino, and Pump.fun actions through plugins | `Official` | `Local` | `Wallet` | [GitHub](https://github.com/sendaifun/solana-agent-kit/tree/v2/packages/adapter-mcp) |
+| [THORChain](https://swap.thorchain.org/developers/mcp) | Native L1 cross-chain swap quotes with memos, pool depths, and network status | `Official` | `Remote` | `No` | [GitHub](https://github.com/thorchain/swap.thorchain/tree/main/src/lib/agent) |
 
 ### Analytics & Research
 | Server | What It Is Good For | Maintainer | Transport | Auth | Source |
