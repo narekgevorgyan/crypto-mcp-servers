@@ -84,6 +84,7 @@ These hosted servers answered an MCP `initialize` request with no credentials. T
 | [LI.FI](https://docs.li.fi/mcp-server/overview) | `https://mcp.li.quest/mcp` | Bridge and swap routes across 58 chains |
 | [Morpho](https://docs.morpho.org/developers/agents/mcp/) | `https://mcp.morpho.org/` | Morpho vaults, markets, and positions |
 | [Solana Explorer](https://github.com/solana-foundation/explorer/tree/master/app/mcp) | `https://explorer.solana.com/mcp` | Decode Solana accounts and signatures |
+| [SQD Portal](https://docs.sqd.dev/en/ai/mcp-server) | `https://portal.sqd.dev/mcp` | Logs, txs, traces, and wallet summaries on 120+ networks |
 | [TronGrid](https://developers.tron.network/docs/mcp) | `https://mcp.trongrid.io/mcp` | TRON accounts, blocks, and TRC-20 data |
 
 ## Server Categories
@@ -176,6 +177,7 @@ These hosted servers answered an MCP `initialize` request with no credentials. T
 | [QuickNode](https://www.quicknode.com/docs/build-with-ai/quicknode-mcp) | Manage QuickNode endpoints and usage, plus read-only JSON-RPC calls | `Official` | `Remote` | `Mixed` | [Docs](https://www.quicknode.com/docs/build-with-ai/quicknode-mcp) |
 | [Solana Developer MCP](https://mcp.solana.com) | Current Solana docs search plus Anchor and program checks | `Official` | `Remote` | `No` | [GitHub](https://github.com/solana-foundation/solana-mcp) |
 | [Solana Explorer](https://github.com/solana-foundation/explorer/tree/master/app/mcp) | Keyless, read-only decoding of Solana accounts and signatures | `Official` | `Remote` | `No` | [GitHub](https://github.com/solana-foundation/explorer/tree/master/app/mcp) |
+| [SQD Portal](https://docs.sqd.dev/en/ai/mcp-server) | Keyless logs, transactions, traces, and wallet summaries across 120+ networks (experimental) | `Official` | `Remote` | `No` | [Docs](https://docs.sqd.dev/en/ai/mcp-server) |
 | [Tatum](https://github.com/tatumio/blockchain-mcp) | Balances, portfolios, blocks, and an RPC gateway across 130+ networks | `Official` | `Local` | `apiKey` | [GitHub](https://github.com/tatumio/blockchain-mcp) |
 | [Tenderly](https://docs.tenderly.co/mcp-server) | Transaction simulation, tracing, and Virtual TestNets (paid plans) | `Official` | `Remote` | `OAuth` | [Docs](https://docs.tenderly.co/mcp-server) |
 | [The Graph Subgraph MCP](https://thegraph.com/docs/en/subgraphs/tooling/subgraph-mcp/introduction/) | Find subgraphs, read schemas, and run GraphQL queries | `Official` | `Both` | `apiKey` | [Docs](https://thegraph.com/docs/en/subgraphs/tooling/subgraph-mcp/introduction/) |
