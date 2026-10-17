@@ -80,6 +80,7 @@ These hosted servers answered an MCP `initialize` request with no credentials. T
 | [DexPaprika](https://github.com/coinpaprika/dexpaprika-mcp) | `https://mcp.dexpaprika.com/streamable-http` | DEX pools, liquidity, and token prices |
 | [Etherscan (keyless)](https://docs.etherscan.io/ai/mcp) | `https://mcp-keyless.etherscan.io/mcp` | Explorer data on 60+ EVM chains |
 | [Gate](https://github.com/gate/gate-mcp) | `https://api.gatemcp.ai/mcp` | Gate public market data |
+| [InsumerAPI](https://github.com/insumerapi/mcp-server-insumer) | `https://api.insumermodel.com/mcp` | Signed yes or no on wallet conditions across 37 chains |
 | [Jupiter](https://developers.jup.ag/docs/ai/trading-mcp) | `https://mcp.jup.ag` | Solana swap quotes, limit orders, lending data |
 | [LI.FI](https://docs.li.fi/mcp-server/overview) | `https://mcp.li.quest/mcp` | Bridge and swap routes across 58 chains |
 | [Morpho](https://docs.morpho.org/developers/agents/mcp/) | `https://mcp.morpho.org/` | Morpho vaults, markets, and positions |
@@ -173,6 +174,7 @@ These hosted servers answered an MCP `initialize` request with no credentials. T
 | [EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server) | Generic reads and writes on 60+ EVM networks: balances, contracts, ENS | `Community` | `Local` | `Mixed` | [GitHub](https://github.com/mcpdotdirect/evm-mcp-server) |
 | [Hedera Agent Kit](https://docs.hedera.com/solutions/ai/hosted-mcp-server) | Build Hedera account, token, HCS, and contract transactions for wallet signing | `Official` | `Both` | `Mixed` | [GitHub](https://github.com/hashgraph/hedera-agent-kit-js/tree/main/packages/mcp) |
 | [Helius](https://www.helius.dev/docs/agents/mcp) | Solana RPC, DAS assets, enhanced transactions, and webhooks | `Official` | `Local` | `apiKey` | [GitHub](https://github.com/helius-labs/core-ai/tree/main/helius-mcp) |
+| [InsumerAPI](https://github.com/insumerapi/mcp-server-insumer) | Signed yes or no on whether a wallet meets a condition (token balance, NFT, attestation) on 37 chains, verifiable offline | `Official` | `Both` | `Mixed` | [GitHub](https://github.com/insumerapi/mcp-server-insumer) |
 | [QuickNode](https://www.quicknode.com/docs/build-with-ai/quicknode-mcp) | Manage QuickNode endpoints and usage, plus read-only JSON-RPC calls | `Official` | `Remote` | `Mixed` | [Docs](https://www.quicknode.com/docs/build-with-ai/quicknode-mcp) |
 | [Solana Developer MCP](https://mcp.solana.com) | Current Solana docs search plus Anchor and program checks | `Official` | `Remote` | `No` | [GitHub](https://github.com/solana-foundation/solana-mcp) |
 | [Solana Explorer](https://github.com/solana-foundation/explorer/tree/master/app/mcp) | Keyless, read-only decoding of Solana accounts and signatures | `Official` | `Remote` | `No` | [GitHub](https://github.com/solana-foundation/explorer/tree/master/app/mcp) |
