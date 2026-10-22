@@ -236,6 +236,7 @@ These hosted servers answered an MCP `initialize` request with no credentials. T
 |---|---|---|---|---|---|
 | [BlockRun](https://blockrun.ai/docs) | Pay-per-call crypto data, X/Twitter, Polymarket, and web research over x402 | `Official` | `Local` | `Mixed` | [GitHub](https://github.com/BlockRunAI/blockrun-mcp) |
 | [CoinStats](https://github.com/CoinStatsHQ/coinstats-mcp) | Market data, portfolios, wallets, exchanges, DeFi, and news in one server | `Official` | `Both` | `Mixed` | [GitHub](https://github.com/CoinStatsHQ/coinstats-mcp) |
+| [Finch](https://www.finchtech.ai/auth.md) | Call third-party agents, including MistTrack on-chain fund tracing, Hyperliquid US equity-perp analysis, and options screening | `Official` | `Remote` | `Wallet` | [Docs](https://www.finchtech.ai/auth.md) |
 | [Heurist Mesh](https://github.com/heurist-network/heurist-mesh-mcp-server) | 30+ crypto analysis agents behind one key | `Official` | `Both` | `apiKey` | [GitHub](https://github.com/heurist-network/heurist-mesh-mcp-server) |
 | [Hive Intelligence](https://hiveintelligence.xyz) | One server over many crypto data providers, with a free anonymous lane | `Official` | `Both` | `Mixed` | [GitHub](https://github.com/hive-intel/hive-sdk) |
 | [Kukapay MCP Servers](https://github.com/kukapay/kukapay-mcp-servers) | Index of single-purpose community crypto servers (check each one's activity) | `Community` | `Local` | `Mixed` | [GitHub](https://github.com/kukapay/kukapay-mcp-servers) |
