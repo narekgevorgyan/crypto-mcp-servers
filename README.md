@@ -166,6 +166,7 @@ These hosted servers answered an MCP `initialize` request with no credentials. T
 | [Bankless Onchain](https://github.com/Bankless/onchain-mcp) | Contract state, ABIs, proxies, events, and tx history on EVM chains | `Official` | `Local` | `apiKey` | [GitHub](https://github.com/Bankless/onchain-mcp) |
 | [Bitquery](https://www.bitquery.io/products/bitquery-mcp-server) | DEX trades, holders, and money-flow tracing across 40+ chains | `Official` | `Remote` | `OAuth` | [GitHub](https://github.com/bitquery/mcp) |
 | [Blockscout](https://github.com/blockscout/mcp-server) | Multichain EVM explorer: balances, tokens, NFTs, and contract ABIs | `Official` | `Both` | `Mixed` | [GitHub](https://github.com/blockscout/mcp-server) |
+| [BlockVectra](https://docs.blockvectra.com/en/guides/mcp-server/) | EVM JSON-RPC, indexed blockchain data, docs, pricing, and status | `Official` | `Both` | `Mixed` | [GitHub](https://github.com/blockvectra/mcp) |
 | [BNB Chain](https://github.com/bnb-chain/bnbchain-mcp) | BNB Chain and EVM reads, preview-then-confirm transfers, Greenfield storage | `Official` | `Local` | `Mixed` | [GitHub](https://github.com/bnb-chain/bnbchain-mcp) |
 | [Chainstack](https://chainstack.com/mcp/) | Node deployment and management plus live RPC on 70+ chains | `Official` | `Remote` | `Mixed` | [Docs](https://chainstack.com/mcp/) |
 | [Dune](https://docs.dune.com/docs/agents/mcp) | Find tables, run DuneSQL, and build charts and dashboards | `Official` | `Remote` | `Mixed` | [Docs](https://docs.dune.com/docs/agents/mcp) |
