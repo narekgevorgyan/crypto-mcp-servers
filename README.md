@@ -83,6 +83,7 @@ These hosted servers answered an MCP `initialize` request with no credentials. T
 | [Jupiter](https://developers.jup.ag/docs/ai/trading-mcp) | `https://mcp.jup.ag` | Solana swap quotes, limit orders, lending data |
 | [LI.FI](https://docs.li.fi/mcp-server/overview) | `https://mcp.li.quest/mcp` | Bridge and swap routes across 58 chains |
 | [Morpho](https://docs.morpho.org/developers/agents/mcp/) | `https://mcp.morpho.org/` | Morpho vaults, markets, and positions |
+| [SODAX Builders](https://docs.sodax.com/builders-mcp) | `https://builders.sodax.com/mcp` | Cross-network swap quotes, intents, and money market data |
 | [Solana Explorer](https://github.com/solana-foundation/explorer/tree/master/app/mcp) | `https://explorer.solana.com/mcp` | Decode Solana accounts and signatures |
 | [TronGrid](https://developers.tron.network/docs/mcp) | `https://mcp.trongrid.io/mcp` | TRON accounts, blocks, and TRC-20 data |
 
@@ -196,6 +197,7 @@ These hosted servers answered an MCP `initialize` request with no credentials. T
 | [Morpho](https://docs.morpho.org/developers/agents/mcp/) | Morpho vaults, markets, positions, and unsigned prepare-tx tools | `Official` | `Remote` | `No` | [Docs](https://docs.morpho.org/developers/agents/mcp/) |
 | [Pendle](https://github.com/pendle-finance/pendle-ai) | Pendle PT/YT trading, LP, limit orders, and Boros rate derivatives | `Official` | `Both` | `Mixed` | [GitHub](https://github.com/pendle-finance/pendle-ai) |
 | [Relay](https://github.com/relayprotocol/relay-mcp) | Cross-chain bridge and swap quotes, fees, and tx status | `Official` | `Local` | `No` | [GitHub](https://github.com/relayprotocol/relay-mcp) |
+| [SODAX Builders](https://docs.sodax.com/builders-mcp) | Cross-network swap quotes, intents, money market reserves, and SDK docs across 20+ networks | `Official` | `Remote` | `No` | [GitHub](https://github.com/gosodax/builders-sodax-mcp-server) |
 | [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/v2/packages/adapter-mcp) | Jupiter, Raydium, Orca, Kamino, and Pump.fun actions through plugins | `Official` | `Local` | `Wallet` | [GitHub](https://github.com/sendaifun/solana-agent-kit/tree/v2/packages/adapter-mcp) |
 
 ### Analytics & Research
