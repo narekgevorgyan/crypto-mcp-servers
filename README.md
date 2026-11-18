@@ -205,6 +205,7 @@ These hosted servers answered an MCP `initialize` request with no credentials. T
 | [Glassnode](https://docs.glassnode.com/integrations-and-tools/glassnode-mcp-server) | 900+ on-chain and market metrics for 1,700+ assets | `Official` | `Remote` | `Mixed` | [Docs](https://docs.glassnode.com/integrations-and-tools/glassnode-mcp-server) |
 | [Messari](https://docs.messari.io/mcp-server/hosted) | Messari research and news search, datasets, and asset time series (Enterprise) | `Official` | `Remote` | `OAuth` | [Docs](https://docs.messari.io/mcp-server/hosted) |
 | [Nansen](https://docs.nansen.ai/mcp/connecting) | Smart-money labels, token flows, and wallet PnL | `Official` | `Remote` | `Mixed` | [Docs](https://docs.nansen.ai/mcp/connecting) |
+| [StalkChain Data](https://stalkchain.com/mcp) | Research tracked FOMO traders by handle, wallet performance, token holders, and on-chain trade flow | `Official` | `Remote` | `Mixed` | [Docs](https://github.com/StalkChain/fomo-mcp-api/blob/main/docs/DEVELOPER-GUIDE.md) |
 | [Token Terminal](https://tokenterminal.com/docs/mcp/introduction) | Protocol revenue, fees, financial statements, and sector comparisons | `Official` | `Remote` | `OAuth` | [Docs](https://tokenterminal.com/docs/mcp/introduction) |
 | [Web3 Research MCP](https://github.com/aaronjmars/web3-research-mcp) | Free local token research reports from CoinGecko, DefiLlama, and the web | `Community` | `Local` | `No` | [GitHub](https://github.com/aaronjmars/web3-research-mcp) |
 
